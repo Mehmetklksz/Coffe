@@ -1,6 +1,6 @@
 # Coffe
 
-HTML ve CSS kullanılarak hazırlanmış, kafe için minimal bir tanıtım sayfası arayüzü.
+HTML ve CSS kullanılarak hazırlanmış, kafe için minimal bir tanıtım sayfası arayüzü. Tasarım, başka bir web sitesinden ilham alınarak HTML ve CSS pratiği amacıyla yeniden oluşturulmuştur
 
 ## Özellikler
 - Kafe tanıtım bölümü
