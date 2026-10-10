@@ -5,7 +5,7 @@ HTML ve CSS kullanılarak hazırlanmış, kafe için minimal bir tanıtım sayfa
 ## Özellikler
 - Kafe tanıtım bölümü
 - Menü ve iletişim bağlantıları
-- Responsive tasarım (yalnızca gerçekten yaptıysan)
+- Responsive tasarım 
 
 ## Teknolojiler
 - HTML
